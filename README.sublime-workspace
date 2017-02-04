@@ -1,0 +1,270 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"textresult1"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"TEXT",
+				"text-align"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"tex",
+				"textbox"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"open",
+				"openMarker"
+			],
+			[
+				"place",
+				"places"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"name",
+				"name_more"
+			],
+			[
+				"B",
+				"BLOCKQUOTE	Tag"
+			],
+			[
+				"b",
+				"blockquote	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "sf",
+		"selected_items":
+		[
+			[
+				"sf",
+				"SFTP: Browse Server…"
+			],
+			[
+				"s",
+				"SFTP: Browse Server…"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/folders/xw/k4y_q9292ln7j545dr70wwxc0000gp/T/sublime-sftp-browse-1485974655/eagle/public_html/running_3/action.php",
+		"/var/folders/xw/k4y_q9292ln7j545dr70wwxc0000gp/T/sublime-sftp-browse-1485975434/eagle/public_html/TestsubmitForm/form.php",
+		"/var/folders/xw/k4y_q9292ln7j545dr70wwxc0000gp/T/sublime-sftp-browse-1485965320/eagle/public_html/running_3/home.php",
+		"/var/folders/xw/k4y_q9292ln7j545dr70wwxc0000gp/T/sublime-sftp-browse-1484922439/eagle/public_html/TestsubmitForm/unsubscribe.php",
+		"/Users/Mohamed/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/eagle",
+		"/var/folders/xw/k4y_q9292ln7j545dr70wwxc0000gp/T/sublime-sftp-browse-1485975679/eagle/public_html/error_log",
+		"/var/folders/xw/k4y_q9292ln7j545dr70wwxc0000gp/T/sublime-sftp-browse-1485970471/eagle/public_html/TestsubmitForm/form.php",
+		"/var/folders/xw/k4y_q9292ln7j545dr70wwxc0000gp/T/sublime-sftp-browse-1485973179/eagle/public_html/running_3/action.php",
+		"/var/folders/xw/k4y_q9292ln7j545dr70wwxc0000gp/T/sublime-sftp-browse-1484756613/eagle/public_html/TestsubmitForm/form.php",
+		"/var/folders/xw/k4y_q9292ln7j545dr70wwxc0000gp/T/sublime-sftp-browse-1484765686/eagle/public_html/running_3/tools/style.css",
+		"/var/folders/xw/k4y_q9292ln7j545dr70wwxc0000gp/T/sublime-sftp-browse-1484756379/eagle/public_html/running_3/home.php",
+		"/Users/Mohamed/Desktop/momo.txt",
+		"/Users/Mohamed/Desktop/uls_test_file1.txt",
+		"/Users/Mohamed/Desktop/sortie15.txt",
+		"/Users/Mohamed/Desktop/exit15.html",
+		"/Users/Mohamed/Downloads/simfatic-RegistrationForm-dc288cf/source/login.php",
+		"/Users/Mohamed/Downloads/Assignment-2_4/Index.html",
+		"/Users/Mohamed/Downloads/Assignment-2_4/DCstyle.css",
+		"/Users/Mohamed/Downloads/qu4-2.html",
+		"/Users/Mohamed/Downloads/cssmenu-4/styles.css",
+		"/Users/Mohamed/Desktop/index.html",
+		"/Users/Mohamed/Desktop/school work/SOEN 287 ASSIGNMENTS/mystyle1.css",
+		"/Users/Mohamed/Desktop/school work/SOEN 287 ASSIGNMENTS/Q3.Assignment2.html",
+		"/Users/Mohamed/Desktop/school work/SOEN 287 ASSIGNMENTS/Q2.Assignment2.html",
+		"/Users/Mohamed/Desktop/school work/SOEN 287 ASSIGNMENTS/Q1.Assignment2.html",
+		"/Users/Mohamed/Downloads/C348WA1.pl",
+		"/Users/Mohamed/Desktop/SOEN 287 ASSIGNMENTS/assignment2Question1",
+		"/Users/Mohamed/Downloads/q3.html",
+		"/Users/Mohamed/Desktop/prac1.pl",
+		"/Users/Mohamed/Desktop/SOEN 287 ASSIGNMENTS/Question2.html",
+		"/Users/Mohamed/Desktop/SOEN 287 ASSIGNMENTS/Question1.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"results",
+			"callback",
+			"sftp"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
